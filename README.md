@@ -1,1 +1,1 @@
-# Jiyun-Park
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Starbucks-006241?style=flat-square&logo=Starbucks&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
